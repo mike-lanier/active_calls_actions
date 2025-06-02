@@ -2,7 +2,8 @@ name: Update Active Calls Data
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour, adjust as needed
+    - cron: '0 * * * *'   # runs at the beginning of every hour
+    - cron: '30 * * * *'  # runs every half hour
   workflow_dispatch:      # manual trigger
 
 permissions:
