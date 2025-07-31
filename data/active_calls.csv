@@ -1087,3 +1087,5 @@ incident_id,call_date,description,location,district,department
 2025-00276061,2025-07-31 04:24:00,911 hang up,4900 BLOCK W OAK RIDGE RD,E2,OPD
 2025-00276065,2025-07-31 04:23:00,House/business check,4500 BLOCK LANDING DR,B7,OPD
 2025-00276062,2025-07-31 04:20:00,General disturbance,500 BLOCK W SOUTH ST,F5,OPD
+2025-00276067,2025-07-31 04:48:00,Sick or injured person,Restricted Address,G8,OPD
+2025-00276066,2025-07-31 04:48:00,Noise ordinance violation,800 BLOCK SEMINOLE AVE,C3,OPD
