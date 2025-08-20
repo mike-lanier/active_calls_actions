@@ -3955,3 +3955,5 @@ incident_id,call_date,description,location,district,department
 2025-00302016,2025-08-20 01:33:00,Drunk driver,6000 BLOCK UNIVERSAL BLVD,E7,OPD
 2025-00302051,2025-08-20 02:41:00,Disabled occupied vehicle,COLUMBIA ST / BRUTON BLVD,G5,OPD
 2025-00302055,2025-08-20 02:40:00,Suspicious person,500 BLOCK E WASHINGTON ST,D4,OPD
+2025-00302065,2025-08-20 03:21:00,Fugitive from justice,N OSCEOLA AVE / E CENTRAL BLVD,D4,OPD
+2025-00302060,2025-08-20 03:10:00,Domestic disturbance,Restricted Address,F1,OPD
