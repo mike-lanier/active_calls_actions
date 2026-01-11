@@ -11172,3 +11172,5 @@ incident_id,call_date,description,location,district,department
 2026-00012186,2026-01-10 22:15:00,Accident (injuries),N JOHN YOUNG PKWY / SR 408 W,,OPD
 2026-00012145,2026-01-10 21:55:00,Accident with road blockage,E ANDERSON ST / S ROSALIND AVE,D4,OPD
 2026-00012125,2026-01-10 21:23:00,Drug violation,S ORANGE BLOSSOM TRL / WINNIFRED ST,F6,OPD
+2026-00012259,2026-01-10 23:21:00,Mentally-ill person (non-violent),5600 BLOCK UNIVERSAL BLVD,E7,OPD
+2026-00012262,2026-01-10 23:21:00,Domestic disturbance,Restricted Address,E7,OPD
